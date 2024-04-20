@@ -1,6 +1,6 @@
 {
   "name": "bank_atm_machine_cashpoint",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
